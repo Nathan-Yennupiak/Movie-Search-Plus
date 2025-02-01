@@ -1,6 +1,6 @@
-# MovieApp
+# Movie Search Plus
 
-MovieApp is a ReactJS-based application that allows users to search for movies using the TMDB (The Movie Database) API. The app also integrates with Appwrite to show trending movies based on the most searched movies. It utilizes debouncing to minimize API calls while users type their search queries.
+Movie Search Plus is a ReactJS-based application that allows users to search for movies using the TMDB (The Movie Database) API. The app also integrates with Appwrite to show trending movies based on the most searched films. It utilizes debouncing to minimize API calls while users type their search queries.
 
 ## Features
 
